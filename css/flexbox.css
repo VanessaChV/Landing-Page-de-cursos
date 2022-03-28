@@ -10,6 +10,18 @@
     display: flex;
 }
 
+/* CONTENIDO PRINCIPAL */
+
+.contenidoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidoPrincipal-cursos-link {
+    display: flex;
+    width: 23%;
+}
+
 /* FOOTER */
 
 .rodapePrincipal-patrocinadores .container {
