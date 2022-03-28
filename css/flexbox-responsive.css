@@ -1,0 +1,9 @@
+.headerPrincipal .container {
+    align-items: initial;
+    flex-direction: column;
+    text-align: center;
+}
+
+.headerPrincipal-nav {
+    flex-direction: column;
+}
