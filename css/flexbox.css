@@ -16,3 +16,24 @@
     display: flex;
     justify-content: space-between;
 }
+
+/* Agarro el padre de la lista:*/
+
+.rodapePrincipal-patrocinadores-list {
+    align-items: center; 
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin-right: 5%;
+}
+
+.rodapePrincipal-contatoForm {
+    width: 25%;
+}
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 250px;
+}
