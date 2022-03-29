@@ -21,6 +21,10 @@
         width: 100%;
     }
 
+    .videoSobre .container {
+        flex-direction: column;    
+    }
+
     .rodapePrincipal-navMap-list {
         height: auto;
         flex-wrap: nowrap;

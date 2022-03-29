@@ -28,6 +28,7 @@
 
 .videoSobre-video {
     flex-grow: 2;
+    flex-shrink: 2;
 }
 
 .videoSobre-sobre {
